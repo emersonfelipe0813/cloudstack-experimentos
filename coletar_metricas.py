@@ -1,3 +1,5 @@
+#Script para fazer a coleta de métricas da máquina host que roda esse código
+
 import psutil
 import time
 import csv
